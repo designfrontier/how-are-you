@@ -1,0 +1,15 @@
+{
+  "name": "how-are-you",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": "./index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Sellers <daniel@designfrontier.net>",
+  "license": "MIT",
+  "dependencies": {
+    "1on1-questions": "^1.0.0"
+  }
+}
